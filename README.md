@@ -1,11 +1,10 @@
 # welcome bot: A Probot App
-
-DESCRIPTION PLACEHOLDER
-
+- Welcome bot give a welcome message when new contributors interact with the repository for the first time.  
+  
 ## What it does
-
-FEATURES PLACEHOLDER
-
+- Welcome messages  
+- Interaction detection  
+  
 ## Getting started
 
 1. [Install the bot](https://github.com/apps/welcome) on the intended repositories. The plugin requires the following **Permissions and Events**:
