@@ -35,4 +35,6 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+• "Welcome to the welcome bot"  
+• "Thank you for your first post"  
+• "Thank you for contributing"  
